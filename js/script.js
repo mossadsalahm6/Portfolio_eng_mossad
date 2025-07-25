@@ -374,7 +374,7 @@ window.addEventListener('load', () => {
         if (heroBackground) {
             new EnhancedParticleSystem(heroBackground);
         }
-    }, 500);
+    }, 200);
 });
 
 // Enhanced Navbar with scroll effects
